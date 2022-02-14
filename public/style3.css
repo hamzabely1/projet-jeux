@@ -1,0 +1,720 @@
+.maps{
+    height: 560px;
+    width: 800px;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-image: url("h3.png");
+    background-size: cover;
+  
+    background-repeat: no-repeat;
+  
+  }
+  .flex{
+    display: flex;
+    justify-content: center;
+  }
+  body{
+    font-family: 'Metal Mania', cursive;
+  
+  }
+  .classegiocatore{
+height: 130px;
+width: 800px;
+background-image: url("h3.png"); 
+border-radius: 10px;
+border: solid 3px black;
+
+}  
+.porta{
+    position: absolute;
+    width: 20px;
+    height: 50px;
+    top: 500px;
+    left: 1150px;
+    border-radius: 10px;
+}
+
+#porta{
+    height: 18px;
+    width: 55px;
+    border-radius: 10px;
+    background-color: white;
+}
+#domanda{
+    position: absolute;
+    top: 200px;
+    left: 900px;
+}
+#regalo{
+    position: absolute;
+    top:100px ;
+    left:500px;
+}
+#giocatore{
+    position: absolute;
+width: 50px;
+height: 50px;
+    top: 510px;
+    left: 735px;
+   background-image: url("gio.png");
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+#stellaregalo{
+    position: absolute;
+    top: 500px;
+    left:400px ;
+}
+#stelladomanda{
+    position: absolute;
+    top: 30px;
+    left: 800px;
+}
+
+#td1{
+height: 60px;
+width: 60px;
+background-color: gray;
+border-radius: 10px;
+margin: 1px;
+
+}
+#td1{
+    height: 60px;
+    width: 60px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 1px;
+    
+    }
+    .tdc{
+        height: 60px;
+    width: 60px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 1px;
+    }
+
+   
+#td2{
+    height: 60px;
+    width: 60px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 1px;
+    }
+    #td3{
+        height: 60px;
+        width: 60px;
+        background-color: gray;
+        border-radius: 10px;
+        margin: 1px;
+
+        }
+        #td4{
+            height: 60px;
+            width: 60px;
+            background-color: gray;
+            border-radius: 10px;
+            margin: 1px;
+
+            }
+            #td5{
+                height: 60px;
+                width: 60px;
+                background-color: gray;
+                border-radius: 10px;
+                margin: 1px;
+
+                }
+                #td6{
+                    height: 60px;
+                    width: 60px;
+                    background-color: gray;
+                    border-radius: 10px;
+                    margin: 1px;
+
+                    }
+                    #td7{
+                        height: 60px;
+                        width: 60px;
+                        background-color: gray;
+                        border-radius: 10px;
+                        margin: 1px;
+
+                        }
+                        #td8{
+                            height: 60px;
+                            width: 60px;
+                            background-color: gray;
+                            border-radius: 10px;
+                            margin: 1px;
+
+                            }
+                            #td9{
+                                height: 60px;
+                                width: 60px;
+                                background-color: gray;
+                                border-radius: 10px;
+                                margin: 1px;
+
+                                }
+                                #td10{
+                                    height: 60px;
+                                    width: 60px;
+                                    background-color: gray;
+                                    border-radius: 10px;
+                                    margin: 1px;
+
+                                    }
+                                    #td11{
+                                        height: 60px;
+                                        width: 60px;
+                                        background-color: gray;
+                                        border-radius: 10px;
+                                        margin: 1px;
+
+                                        }
+                                        #td12{
+                                            height: 60px;
+                                            width: 60px;
+                                            background-color: gray;
+                                            border-radius: 10px;
+                                            margin: 1px;
+
+                                            }
+                                            #td13{
+                                                height: 60px;
+                                                width: 60px;
+                                                background-color: gray;
+                                                border-radius: 10px;
+                                                margin: 1px;
+
+                                                }
+                                                #td14{
+                                                    height: 60px;
+                                                    width: 60px;
+                                                    background-color: gray;
+                                                    border-radius: 10px;
+                                                    margin: 1px;
+    
+                                                    }
+                                                    #td15{
+                                                        height: 60px;
+                                                        width: 60px;
+                                                        background-color: gray;
+                                                        border-radius: 10px;
+                                                        margin: 1px;
+        
+                                                        }
+                                                        #td16{
+                                                            height: 60px;
+                                                            width: 60px;
+                                                            background-color: gray;
+                                                            border-radius: 10px;
+                                                            margin: 1px;
+            
+                                                            }
+                                                            #td17{
+                                                                height: 60px;
+                                                                width: 60px;
+                                                                background-color: gray;
+                                                                border-radius: 10px;
+                                                                margin: 1px;
+                
+                                                                }
+                                                                #td18{
+                                                                    height: 60px;
+                                                                    width: 60px;
+                                                                    background-color: gray;
+                                                                    border-radius: 10px;
+                                                                    margin: 1px;
+                    
+                                                                    }
+                                                                    #td19{
+                                                                        height: 60px;
+                                                                        width: 60px;
+                                                                        background-color: gray;
+                                                                        border-radius: 10px;
+                                                                        margin: 1px;
+                        
+                                                                        }
+                                                                        #td20{
+                                                                            height: 60px;
+                                                                            width: 60px;
+                                                                            background-color: gray;
+                                                                            border-radius: 10px;
+                                                                            margin: 1px;
+                            
+                                                                            }
+                                                                            #td21{
+                                                                                height: 60px;
+                                                                                width: 60px;
+                                                                                background-color: gray;
+                                                                                border-radius: 10px;
+                                                                                margin: 1px;
+                                
+                                                                                }
+                                                                                #td22{
+                                                                                    height: 60px;
+                                                                                    width: 60px;
+                                                                                    background-color: gray;
+                                                                                    border-radius: 10px;
+                                                                                    margin: 1px;
+                                    
+                                                                                    }
+                                                                                    #td23{
+                                                                                        height: 60px;
+                                                                                        width: 60px;
+                                                                                        background-color: gray;
+                                                                                        border-radius: 10px;
+                                                                                        margin: 1px;
+                                        
+                                                                                        }
+                                                                                        #td24{
+                                                                                            height: 60px;
+                                                                                            width: 60px;
+                                                                                            background-color: gray;
+                                                                                            border-radius: 10px;
+                                                                                            margin: 1px;
+                                            
+                                                                                            }
+                                                                                            #td25{
+                                                                                                height: 60px;
+                                                                                                width: 60px;
+                                                                                                background-color: gray;
+                                                                                                border-radius: 10px;
+                                                                                                margin: 1px;
+                                                
+                                                                                                }
+                                                                                                #td26{
+                                                                                                    height: 60px;
+                                                                                                    width: 60px;
+                                                                                                    background-color: gray;
+                                                                                                    border-radius: 10px;
+                                                                                                    margin: 1px;
+                                                    
+                                                                                                    }
+                                                                                                    #td27{
+                                                                                                        height: 60px;
+                                                                                                        width: 60px;
+                                                                                                        background-color: gray;
+                                                                                                        border-radius: 10px;
+                                                                                                        margin: 1px;
+                                                        
+                                                                                                        }
+                                                                                                        #td28{
+                                                                                                            height: 60px;
+                                                                                                            width: 60px;
+                                                                                                            background-color: gray;
+                                                                                                            border-radius: 10px;
+                                                                                                            margin: 1px;
+                                                                                                            
+                                                                                                            }
+                                                                                                            #td29{
+                                                                                                                height: 60px;
+                                                                                                                width: 60px;
+                                                                                                                background-color: gray;
+                                                                                                                border-radius: 10px;
+                                                                                                                margin: 1px;
+                                                                                                                
+                                                                                                                }
+                                                                                                                #td30{
+                                                                                                                    height: 60px;
+                                                                                                                    width: 60px;
+                                                                                                                    background-color: gray;
+                                                                                                                    border-radius: 10px;
+                                                                                                                    margin: 1px;
+                                                                                                                    
+                                                                                                                    }
+                                                                                                                    #td31{
+                                                                                                                        height: 60px;
+                                                                                                                        width: 60px;
+                                                                                                                        background-color: gray;
+                                                                                                                        border-radius: 10px;
+                                                                                                                        margin: 1px;
+                                                                                                                        
+                                                                                                                        }
+                                                                                                                        #td32{
+                                                                                                                            height: 60px;
+                                                                                                                            width: 60px;
+                                                                                                                            background-color: gray;
+                                                                                                                            border-radius: 10px;
+                                                                                                                            margin: 1px;
+                                                                                                                            
+                                                                                                                            }
+                                                                                                                            #td33{
+                                                                                                                                height: 60px;
+                                                                                                                                width: 60px;
+                                                                                                                                background-color: gray;
+                                                                                                                                border-radius: 10px;
+                                                                                                                                margin: 1px;
+                                                                                                                                
+                                                                                                                                }
+                                                                                                                                #td34{
+                                                                                                                                    height: 60px;
+                                                                                                                                    width: 60px;
+                                                                                                                                    background-color: gray;
+                                                                                                                                    border-radius: 10px;
+                                                                                                                                    margin: 1px;
+                                                                                                                                    
+                                                                                                                                    }
+                                                                                                                                    #td35{
+                                                                                                                                        height: 60px;
+                                                                                                                                        width: 60px;
+                                                                                                                                        background-color: gray;
+                                                                                                                                        border-radius: 10px;
+                                                                                                                                        margin: 1px;
+                                                                                                                                        
+                                                                                                                                        }
+                                                                                                                                        #td36{
+                                                                                                                                            height: 60px;
+                                                                                                                                            width: 60px;
+                                                                                                                                            background-color: gray;
+                                                                                                                                            border-radius: 10px;
+                                                                                                                                            margin: 1px;
+                                                                                                                                            
+                                                                                                                                            }
+                                                                                                                                            #td37{
+                                                                                                                                                height: 60px;
+                                                                                                                                                width: 60px;
+                                                                                                                                                background-color: gray;
+                                                                                                                                                border-radius: 10px;
+                                                                                                                                                margin: 1px;
+                                                                                                                                                
+                                                                                                                                                }
+                                                                                                                                                #td38{
+                                                                                                                                                    height: 60px;
+                                                                                                                                                    width: 60px;
+                                                                                                                                                    background-color: gray;
+                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                    margin: 1px;
+                                                                                                                                                    
+                                                                                                                                                    }
+                                                                                                                                                    #td39{
+                                                                                                                                                        height: 60px;
+                                                                                                                                                        width: 60px;
+                                                                                                                                                        background-color: gray;
+                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                        margin: 1px;
+                                                                                                                                                        
+                                                                                                                                                        }
+                                                                                                                                                        #td40{
+                                                                                                                                                            height: 60px;
+                                                                                                                                                            width: 60px;
+                                                                                                                                                            background-color: gray;
+                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                            margin: 1px;
+                                                                                                                                                            
+                                                                                                                                                            }
+                                                                                                                                                            #td41{
+                                                                                                                                                                height: 60px;
+                                                                                                                                                                width: 60px;
+                                                                                                                                                                background-color: gray;
+                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                margin: 1px;
+                                                                                                                                                                
+                                                                                                                                                                }#td42{
+                                                                                                                                                                    height: 60px;
+                                                                                                                                                                    width: 60px;
+                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                    
+                                                                                                                                                                    }
+                                                                                                                                                                    #td43 {
+                                                                                                                                                                        height: 60px;
+                                                                                                                                                                        width: 60px;
+                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                        
+                                                                                                                                                                        }
+                                                                                                                                                                        #td44{
+                                                                                                                                                                            height: 60px;
+                                                                                                                                                                            width: 60px;
+                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                            
+                                                                                                                                                                            }
+
+                                                                                                                                                                            #td45{
+                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                
+                                                                                                                                                                                }
+                                                                                                                                                                                #td46{
+                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                    
+                                                                                                                                                                                    }
+                                                                                                                                                                                    #td47{
+                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                        
+                                                                                                                                                                                        }
+                                                                                                                                                                                        #td48{
+                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                            
+                                                                                                                                                                                            }
+                                                                                                                                                                                            #td49{
+                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                
+                                                                                                                                                                                                }
+                                                                                                                                                                                                #td50{
+                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                    
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                    #td51{
+                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                        #td52{
+                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                            
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                            #td53{
+                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                                #td54{
+                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                    #td55{
+                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                        
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                        #td56{
+                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                            
+                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                            #td57{
+                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                #td58{
+                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                    #td59{
+                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                        #td60{
+                                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                            #td61{
+                                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                #td62{
+                                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                    #td63{
+                                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                        #td64{
+                                                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                            #td65{
+                                                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                #td66{
+                                                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                    #td67{
+                                                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                        #td68{
+                                                                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                            #td69{
+                                                                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                #td70{
+                                                                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                    #td71{
+                                                                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                        #td72{
+                                                                                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                            #td73{
+                                                                                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                #td74{
+                                                                                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                    #td75{
+                                                                                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                                                                                        width: 60px;
+                                                                                                                                                                                                                                                                                                        background-color: gray;
+                                                                                                                                                                                                                                                                                                        border-radius: 10px;
+                                                                                                                                                                                                                                                                                                        margin: 1px;
+                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                        #td76{
+                                                                                                                                                                                                                                                                                                            height: 60px;
+                                                                                                                                                                                                                                                                                                            width: 60px;
+                                                                                                                                                                                                                                                                                                            background-color: gray;
+                                                                                                                                                                                                                                                                                                            border-radius: 10px;
+                                                                                                                                                                                                                                                                                                            margin: 1px;
+                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                            #td77{
+                                                                                                                                                                                                                                                                                                                height: 60px;
+                                                                                                                                                                                                                                                                                                                width: 60px;
+                                                                                                                                                                                                                                                                                                                background-color: gray;
+                                                                                                                                                                                                                                                                                                                border-radius: 10px;
+                                                                                                                                                                                                                                                                                                                margin: 1px;
+                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                #td78{
+                                                                                                                                                                                                                                                                                                                    height: 60px;
+                                                                                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                                                                                    margin: 1px;
+                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                    .td{
+                                                                                                                                                                                                                                                                                                                        height: 60px;
+                                                                                                                                                                                                                                                                                                                    width: 60px;
+                                                                                                                                                                                                                                                                                                                    background-color: gray;
+                                                                                                                                                                                                                                                                                                                    border-radius: 10px;
+                                                                                                                                                                                                                                                                                                                    margin: 1px
+                                                                                                                                                                                                                                                                                                                    }

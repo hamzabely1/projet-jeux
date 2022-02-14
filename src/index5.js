@@ -2,9 +2,9 @@
 let giocatore = document.getElementById("giocatore")
 
 
+let body = document.getElementById("body")
 
-
-
+let fe = document.createElement("img")
 
 
 let pos = 0
@@ -22,8 +22,13 @@ function su() {
    giocatore.style.marginTop = pos+"px"
 
  }
-if (pos === -480 && pos1 === -10) {
-  window.location.pathname ="/index2.html"
+if (pos === -240 && pos1 === 0) {
+  body.innerHTML =""
+  body.style.background ="black"
+  body.appendChild(fe)
+  fe.src ="fe.gif"
+  fe.style.height ="600px"
+  fe.style.width="1200px"
 }
 
 }
@@ -40,10 +45,14 @@ function giu() {
     giocatore.style.marginTop = pos+"px"
  
   }
-  if (pos === -480 && pos1 === -10) {
-    window.location.pathname ="/index2.html"
-  }
   
+  if (pos === -240 && pos1 === 0) {
+    body.innerHTML =""
+    body.appendChild(fe)
+    fe.src ="fe.gif"
+    fe.style.height ="600px"
+    fe.style.width="1200px"
+  }
  
  }
 
@@ -58,10 +67,13 @@ function destra() {
     giocatore.style.marginLeft = pos1+"px"
  
   }
-  if (pos === -480 && pos1 === -10) {
-    window.location.pathname ="/index2.html"
+  if (pos === -240 && pos1 === 0) {
+    body.innerHTML =""
+    body.appendChild(fe)
+    fe.src ="fe.gif"
+    fe.style.height ="600px"
+    fe.style.width="1200px"
   }
-  
  
  }
 
@@ -78,8 +90,12 @@ function sinistra() {
     giocatore.style.marginLeft = pos1+"px"
  
   }
-  if (pos === -480 && pos1 === -10) {
-    window.location.pathname ="/index2.html"
+  if (pos === -240 && pos1 === 0) {
+    body.innerHTML =""
+    body.appendChild(fe)
+    fe.src ="fe.gif"
+    fe.style.height ="600px"
+    fe.style.width="1200px"
   }
   
  
@@ -104,14 +120,11 @@ function sinistra() {
 
 
 
+setTimeout(hamza,20000)
 
-
-
-
-
-
-
-
+function hamza() {
+  window.location.pathname ="/index.html"
+}
 
 
 

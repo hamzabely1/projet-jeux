@@ -1,0 +1,72 @@
+.maps{
+    height: 550px;
+    width: 800px;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-image: url("hh.png");
+    background-size: cover;
+  
+    background-repeat: no-repeat;
+  
+  }
+  .flex{
+    display: flex;
+    justify-content: center;
+  }
+  body{
+    font-family: 'Metal Mania', cursive;
+  
+  }
+  .classegiocatore{
+height: 130px;
+width: 800px;
+background-image: url("hh.png"); 
+border-radius: 10px;
+border: solid 3px black;
+
+}  
+.porta{
+    position: absolute;
+    width: 20px;
+    height: 50px;
+    top: 500px;
+    left: 1150px;
+    border-radius: 10px;
+}
+
+#porta{
+    height: 18px;
+    width: 55px;
+    border-radius: 10px;
+    background-color: white;
+}
+#domanda{
+    position: absolute;
+    top: 200px;
+    left: 900px;
+}
+#regalo{
+    position: absolute;
+    top:100px ;
+    left:500px;
+}
+#giocatore{
+    position: absolute;
+width: 50px;
+height: 50px;
+    top: 500px;
+    left: 750px;
+   background-image: url("gio.png");
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+#stellaregalo{
+    position: absolute;
+    top: 500px;
+    left:400px ;
+}
+#stelladomanda{
+    position: absolute;
+    top: 30px;
+    left: 800px;
+}

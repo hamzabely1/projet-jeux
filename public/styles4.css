@@ -1,0 +1,49 @@
+.maps{
+    height: 550px;
+    width: 800px;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-image: url("hhh.jpg");
+    background-size: cover;
+  
+    background-repeat: no-repeat;
+  
+  }
+  .flex{
+    display: flex;
+    justify-content: center;
+  }
+  body{
+    font-family: 'Metal Mania', cursive;
+  
+  }
+  .classegiocatore{
+height: 130px;
+width: 800px;
+background-image: url("hhh.jpg"); 
+border-radius: 10px;
+border: solid 3px black;
+
+}  
+#giocatore{
+    position: absolute;
+width: 50px;
+height: 50px;
+    top: 500px;
+    left: 750px;
+   background-image: url("gio.png");
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+#porta{
+    height: 18px;
+    width: 55px;
+    border-radius: 10px;
+    background-color: white;
+}
+#mos {
+    position: absolute;
+    top: 200px;
+    left: 700px;
+}
+
