@@ -32,8 +32,9 @@ height: 50px;
     top: 500px;
     left: 750px;
    background-image: url("gio.png");
-   background-size: contain;
-   background-repeat: no-repeat;
+background-size: contain;  
+background-repeat: no-repeat;
+ 
 }
 #porta{
     height: 18px;
