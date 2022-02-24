@@ -22,3 +22,12 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+
+
+link:
+
+https://determined-mcnulty-b66e23.netlify.app
+
+figma:
+
+https://www.figma.com/file/LUH3OJFvdHxxGPb5Q30Jyh/Untitled
